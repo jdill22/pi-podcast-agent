@@ -1,3 +1,4 @@
-PI-podcast-agent.json
-token.json
+venv/
 .env
+token.json
+__pycache__/
